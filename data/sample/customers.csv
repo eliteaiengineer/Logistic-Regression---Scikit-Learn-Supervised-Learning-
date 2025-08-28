@@ -1,0 +1,16 @@
+age,income,city,device,tenure,is_active,churn
+22,1800,Beirut,android,2,1,0
+35,5200,Tripoli,ios,14,1,0
+41,3100,Beirut,android,8,0,1
+29,2600,Saida,ios,4,1,0
+33,4400,Byblos,web,12,1,0
+47,3900,Beirut,android,6,0,1
+23,1700,Baalbek,android,1,1,1
+54,7100,Byblos,ios,24,1,0
+38,4800,Tripoli,web,10,1,0
+46,2900,Saida,android,3,0,1
+31,3300,Beirut,ios,5,1,0
+27,2100,Zahle,android,2,1,1
+50,6000,Byblos,web,18,1,0
+39,4500,Tripoli,ios,9,1,0
+43,3700,Beirut,android,7,0,1                
